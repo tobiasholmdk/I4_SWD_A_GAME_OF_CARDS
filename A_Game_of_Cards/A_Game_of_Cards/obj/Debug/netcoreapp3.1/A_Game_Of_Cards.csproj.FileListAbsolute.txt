@@ -1,0 +1,22 @@
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.exe
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.deps.json
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.runtimeconfig.json
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.runtimeconfig.dev.json
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.dll
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.pdb
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.AssemblyInfoInputs.cache
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.AssemblyInfo.cs
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.dll
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.pdb
+C:/Users/Tobias/source/repos/UNI/I4SWD/Exercise_1/A_Game_Of_Cards/A_Game_Of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.csprojAssemblyReference.cache
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_Of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.deps.json
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_Of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.runtimeconfig.json
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_Of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.runtimeconfig.dev.json
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.dll
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_of_Cards/bin/Debug/netcoreapp3.1/A_Game_Of_Cards.pdb
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.csprojAssemblyReference.cache
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.AssemblyInfoInputs.cache
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.AssemblyInfo.cs
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.dll
+/Users/holm/OneDrive - Aarhus universitet/IKT/repos/UNI/I4SWD/Exercise_1/A_Game_of_Cards/A_Game_of_Cards/obj/Debug/netcoreapp3.1/A_Game_Of_Cards.pdb
